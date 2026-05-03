@@ -71,7 +71,7 @@ This project provides a lightweight solution that:
 
 ## 🎥 Demo Video
 
-👉 [Watch Demo](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
+👉 [Watch Demo](https://github.com/pydevharsh/past-paper-analyzer)
 
 ---
 
