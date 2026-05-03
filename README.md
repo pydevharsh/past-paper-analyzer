@@ -71,7 +71,7 @@ This project provides a lightweight solution that:
 
 ## 🎥 Demo Video
 
-👉 [Watch Demo](https://github.com/pydevharsh/past-paper-analyzer)
+👉 [Watch Demo](https://drive.google.com/file/d/1TQiLQHMA5TwrzgVDV8phbyNCOVTFUc3Z/view?usp=sharing)
 
 ---
 
